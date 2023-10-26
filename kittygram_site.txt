@@ -1,0 +1,5 @@
+IP: 158.160.21.230;
+name_taski: taskiypracticum.myftp.org;
+name_kittygram: kittygrampracticum.ddns.net;
+login: pavelborisov;
+password: yfctrjv1;
